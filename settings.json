@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":saran_minecraft.aternos.me
+    "ip":saran_minecraft.aternos.me:58299
     "port":58299
     "version": "",
     "try-creative": false
