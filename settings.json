@@ -7,7 +7,7 @@
   },
   "server": {
     "ip":saran_minecraft.aternos.me
-    "port":  58299
+    "port":58299
     "version": "",
     "try-creative": false
   },
